@@ -1,6 +1,0 @@
-{
-  "variants": {
-    "lit=true": {"model": "slavemod:block/n_lamp_on"},
-    "lit=false": {"model": "slavemod:block/n_lamp_off"}
-  }
-}
