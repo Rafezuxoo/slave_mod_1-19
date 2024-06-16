@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "slavemod:block/jumpy_n_block"
+  }
+}

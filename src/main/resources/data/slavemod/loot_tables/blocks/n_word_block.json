@@ -1,0 +1,14 @@
+{
+  "tyep" : "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "slavemod:n_word_block"
+        }
+      ]
+    }
+  ]
+}

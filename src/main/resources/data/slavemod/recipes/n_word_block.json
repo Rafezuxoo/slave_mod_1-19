@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "slavemod:spear"
+    }
+  ],
+  "result": {
+    "item": "slavemod:n_word_block",
+    "count": 9
+  }
+}
