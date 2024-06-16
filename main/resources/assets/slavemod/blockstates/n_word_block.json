@@ -1,0 +1,5 @@
+{
+  "variants" : {
+    "": {"model": "slavemod:block/n_word_block"}
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "parent": "item/handheld",
+  "loader": "forge:separate_transforms",
+  "base":{
+    "parent": "slavemod:item/spear_3d"
+  },
+  "perspectives": {
+    "gui": {
+      "parent": "slavemod:item/spear_2d"
+    },
+    "ground": {
+      "parent": "slavemod:item/spear_2d"
+    },
+    "fixed": {
+      "parent": "slavemod:item/spear_2d"
+    }
+  }
+}

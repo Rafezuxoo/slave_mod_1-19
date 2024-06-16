@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "slavemod:spear"
+    },
+    "title": "Slave Mod",
+    "description": "Get a slaves wearpon",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "background": "slavemod:textures/block/n_word_block.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "itmes": [
+          {
+            "items": [
+              "slavemod:spear"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
